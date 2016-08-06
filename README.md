@@ -22,7 +22,7 @@
 * Socket Stream
 
 ## CI
-* Travis CI, https://travis-ci.org/
+* TRavis CI, https://travis-ci.org/
 
 ## 測試的方式與環境建設
 
