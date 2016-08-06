@@ -9,6 +9,7 @@
 * MVC, https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 * REST, https://en.wikipedia.org/wiki/Representational_state_transfer
 * Decoupled architecture, https://en.wikipedia.org/wiki/Out-of-order_execution
+* CORS, https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 
 ## 專案
 
