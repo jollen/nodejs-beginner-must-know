@@ -26,3 +26,6 @@
 
 ## 測試的方式與環境建設
 
+## Tools & Utilities
+
+* Jade, http://jade-lang.com/
