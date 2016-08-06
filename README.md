@@ -29,3 +29,4 @@
 ## Tools & Utilities
 
 * Jade, http://jade-lang.com/
+* JSONLint, http://jsonlint.com/
