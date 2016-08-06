@@ -32,3 +32,4 @@
 * Jade, http://jade-lang.com/
 * JSONLint, http://jsonlint.com/
 * Command line test tool, curl -x + website   (ex: curl -x + http://localhost:3000/1/post/)
+* Postman, https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
