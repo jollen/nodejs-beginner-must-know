@@ -8,7 +8,7 @@
 ### 學習nodeJS必須知道的架構
 * MVC, https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 * REST, https://en.wikipedia.org/wiki/Representational_state_transfer
-* 
+
 ### 專案
 
 
@@ -30,5 +30,4 @@
 
 * Jade, http://jade-lang.com/
 * JSONLint, http://jsonlint.com/
-* Command line test tool, curl -x + website
-        ex: curl -x + http://localhost:3000/1/post/
+* Command line test tool, curl -x + website   (ex: curl -x + http://localhost:3000/1/post/)
