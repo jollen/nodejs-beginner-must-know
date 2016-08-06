@@ -8,7 +8,7 @@
 ### 學習nodeJS必須知道的架構
 
 
-### 架構
+### 專案
 
 
 ### APP框架
@@ -19,6 +19,8 @@
 * Derby.js
 * Mean.IO
 * Socket Stream
+
+## CI
 
 ## 測試的方式與環境建設
 
