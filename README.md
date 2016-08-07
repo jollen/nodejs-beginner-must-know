@@ -20,7 +20,9 @@
 
 ## SPA & Framework
 
-* React.js
+* React.js, https://facebook.github.io/react/
+* Material-UI, http://www.material-ui.com/
+* AngularJS, https://angularjs.org/
 
 ## CI & Deploy
 
