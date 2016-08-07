@@ -41,7 +41,7 @@
 ## API Documentation 
 * npm , https://www.npmjs.com/
 * Nodejs_Module(HTTP) , https://nodejs.org/dist/latest-v4.x/docs/api/http.html
-* node-http-proxy(第三方套件), https://www.npmjs.com/package/node-http-proxy
+* http-proxy(第三方套件), https://www.npmjs.com/package/http-proxy
 
 ## 文章選讀
 
