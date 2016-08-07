@@ -42,6 +42,7 @@
 * npm , https://www.npmjs.com/
 * Nodejs_Module(HTTP) , https://nodejs.org/dist/latest-v4.x/docs/api/http.html
 * http-proxy(第三方套件), https://www.npmjs.com/package/http-proxy
+* CORS in express, https://www.npmjs.com/package/cors
 
 ## 文章選讀
 
