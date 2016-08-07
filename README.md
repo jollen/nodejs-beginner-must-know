@@ -46,3 +46,4 @@
 ## 文章選讀
 
 * Making a Single Page App Without a Framework, http://tutorialzine.com/2015/02/single-page-app-without-a-framework/
+* HTTP 1.1 Header Field Definitions, https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14
