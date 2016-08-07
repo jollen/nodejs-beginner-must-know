@@ -38,6 +38,11 @@
 * Postman, https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 * curl, https://en.wikipedia.org/wiki/CURL
 
+## API Documentation 
+* npm , https://www.npmjs.com/
+* Nodejs_Module(HTTP) , https://nodejs.org/dist/latest-v4.x/docs/api/http.html
+* node-http-proxy(第三方套件), https://www.npmjs.com/package/node-http-proxy
+
 ## 文章選讀
 
 * Making a Single Page App Without a Framework, http://tutorialzine.com/2015/02/single-page-app-without-a-framework/
