@@ -4,11 +4,11 @@
 
 ## Skills Checklist
 
-- [] GitHub.com - Getting started.
-- [] Git flow - Getting started.
-- [] Bootstrap - Getting started.
-- [] Behavior description (BDD) - Getting started.
-- [] CLI (command line interface)
+- [ ] GitHub.com - Getting started.
+- [ ] Git flow - Getting started.
+- [ ] Bootstrap - Getting started.
+- [ ] Behavior description (BDD) - Getting started.
+- [ ] CLI (command line interface)
 
 ## Framework
 
