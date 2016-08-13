@@ -2,6 +2,14 @@
 
 整理 Node.js 初學者必須知道的事情。
 
+## Skills Checklist
+
+- [] GitHub.com - Getting started.
+- [] Git flow - Getting started.
+- [] Bootstrap - Getting started.
+- [] Behavior description (BDD) - Getting started.
+- [] CLI (command line interface)
+
 ## Framework
 
 * Expressjs, http://expressjs.com/
