@@ -63,3 +63,4 @@
 * HTTP 1.1 Header Field Definitions, https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14
 * Create HTTPS server with node js, http://stackoverflow.com/questions/16610612/create-https-server-with-node-js
 * CSRF, https://en.wikipedia.org/wiki/Cross-site_request_forgery
+* Git Flow, http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
