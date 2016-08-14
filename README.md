@@ -8,7 +8,7 @@
 - [ ] Git flow - Getting started.
 - [ ] Bootstrap - Getting started.
 - [ ] Behavior description (BDD) - Getting started.
-- [ ] CLI (command line interface)
+- [ ] CLI (command line interface),(Traditional Chinese) https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh-Hant.md
 - [ ] Install Node By PPA, http://www.ubuntuupdates.org/ppa/chris_lea_nodejs
 - [ ] Install Node Using Official Script, https://nodejs.org/en/download/package-manager/
 
@@ -35,7 +35,6 @@
 * AngularJS, https://angularjs.org/
 * Drupal, https://www.drupal.org/
 
-
 ## CI & Deploy
 
 * Travis CI, https://travis-ci.org/
@@ -54,6 +53,7 @@
 * SendGrid, https://sendgrid.com/
 
 ## API Documentation 
+
 * npm, https://www.npmjs.com/
 * Nodejs HTTP module, https://nodejs.org/dist/latest-v4.x/docs/api/http.html
 * http-proxy, https://www.npmjs.com/package/http-proxy
