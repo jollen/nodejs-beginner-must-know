@@ -10,6 +10,7 @@
 - [ ] Behavior description (BDD) - Getting started.
 - [ ] CLI (command line interface)
 - [ ] Install Node By PPA, http://www.ubuntuupdates.org/ppa/chris_lea_nodejs
+- [ ] Install Node Using Official Script, https://nodejs.org/en/download/package-manager/
 
 ## Framework
 
