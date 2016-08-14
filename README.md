@@ -54,14 +54,15 @@
 * SendGrid, https://sendgrid.com/
 
 ## API Documentation 
-* npm , https://www.npmjs.com/
-* Nodejs_Module(HTTP) , https://nodejs.org/dist/latest-v4.x/docs/api/http.html
-* http-proxy(第三方套件), https://www.npmjs.com/package/http-proxy
+* npm, https://www.npmjs.com/
+* Nodejs HTTP module, https://nodejs.org/dist/latest-v4.x/docs/api/http.html
+* http-proxy, https://www.npmjs.com/package/http-proxy
 * CORS in express, https://www.npmjs.com/package/cors
 
 ## Git Flow
 
 * Git Flow, http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
+* (Traditional Chinese) 遠端分支, https://git-scm.com/book/zh-tw/v1/Git-%E5%88%86%E6%94%AF-%E9%81%A0%E7%AB%AF%E5%88%86%E6%94%AF
 * Git fetch remote branch, http://stackoverflow.com/questions/9537392/git-fetch-remote-branch
 
 ## 文章選讀
