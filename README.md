@@ -1,6 +1,6 @@
 # Node.js 初學者的知識體系
 
-整理 Node.js 初學者必須知道的事情。
+由 Node.js 課堂學員，共同匯整 Node.js 初學者必須知道的事情。
 
 ## Skills Checklist
 
