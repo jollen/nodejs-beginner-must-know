@@ -64,9 +64,13 @@
 * (Traditional Chinese) 遠端分支, https://git-scm.com/book/zh-tw/v1/Git-%E5%88%86%E6%94%AF-%E9%81%A0%E7%AB%AF%E5%88%86%E6%94%AF
 * Git fetch remote branch, http://stackoverflow.com/questions/9537392/git-fetch-remote-branch
 
+## HTTP Protocol
+
+* CSRF, https://en.wikipedia.org/wiki/Cross-site_request_forgery
+* CORS, https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+
 ## 文章選讀
 
 * Making a Single Page App Without a Framework, http://tutorialzine.com/2015/02/single-page-app-without-a-framework/
 * HTTP 1.1 Header Field Definitions, https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14
 * Create HTTPS server with node js, http://stackoverflow.com/questions/16610612/create-https-server-with-node-js
-* CSRF, https://en.wikipedia.org/wiki/Cross-site_request_forgery
