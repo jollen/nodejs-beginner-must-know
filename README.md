@@ -57,6 +57,7 @@
 * Nodejs HTTP module, https://nodejs.org/dist/latest-v4.x/docs/api/http.html
 * http-proxy, https://www.npmjs.com/package/http-proxy
 * CORS in express, https://www.npmjs.com/package/cors
+* NGINX documentation, https://nginx.org/en/docs/beginners_guide.html
 
 ## Git Flow
 
