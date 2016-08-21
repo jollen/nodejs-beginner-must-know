@@ -70,6 +70,7 @@
 
 * CSRF, https://en.wikipedia.org/wiki/Cross-site_request_forgery
 * CORS, https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+* [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177), 學習 HTTP 的入門推薦文章
 
 ## 文章選讀
 
