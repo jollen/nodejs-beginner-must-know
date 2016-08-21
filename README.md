@@ -60,6 +60,12 @@
 * CORS in express, https://www.npmjs.com/package/cors
 * NGINX documentation, https://nginx.org/en/docs/beginners_guide.html
 
+## Deployment
+
+* Nginx as Reserved Proxy
+* Nginx as Webserver for Client Cache (customize HTTP Headers)
+* CDN
+
 ## Git Flow
 
 * Git Flow, http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
