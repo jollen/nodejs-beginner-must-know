@@ -30,6 +30,10 @@
 
 * rollup
 
+## JavaScript Code Quality Tool
+* JSHint, http://jshint.com/
+
+
 ## SPA & Framework
 
 * React.js, https://facebook.github.io/react/
